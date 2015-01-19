@@ -29,11 +29,8 @@ a {
 	-webkit-box-shadow: 2px 2px 2px #888;
 }
 
-/* .line  { padding: 0.2ex 0; } */
-
-.line[alternate=even] { background-color: #000; }
+.line[alternate=even] { background-color: #111; }
 .line[alternate=odd] { background-color: #222; }
-.line[alternate=even], .line[alternate=odd] { padding-top: 1px; padding-bottom: 1px; }
 
 .time  { color: #5F5A60; }
 .place { color: #9a703f; }
