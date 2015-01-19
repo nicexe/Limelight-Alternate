@@ -29,8 +29,8 @@ a {
 	-webkit-box-shadow: 2px 2px 2px #888;
 }
 
-.line[alternate=even] { background-color: #111; }
-.line[alternate=odd] { background-color: #222; }
+.line[alternate=even] { background-image: -webkit-linear-gradient( left, rgba(17,17,17,1), rgba(17,17,17,0) ); }
+.line[alternate=odd] { background-image: -webkit-linear-gradient( left, rgba(34,34,34,1), rgba(34,34,34,0) ); }
 
 .time  { color: #5F5A60; }
 .place { color: #9a703f; }
