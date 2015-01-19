@@ -193,6 +193,15 @@ html[channelname="#rubyonrails"].normal {
 html[channelname="##apple"].normal {
 	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
 }
+html[channelname="#MacOSX"].normal {
+	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
+}
+html[channelname="##mac"].normal {
+	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
+}
 html[channelname="#python"].normal {
 	background: #202020 url('Limelight/python.png') no-repeat fixed bottom right;
+}
+html[channelname="#stormbit"].normal {
+	background: #202020 url('Limelight/stormbit.svg') no-repeat fixed bottom right; background-size: 226px 80px;
 }
