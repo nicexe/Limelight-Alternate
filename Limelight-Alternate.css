@@ -190,12 +190,8 @@ html[channelname="#ruby"].normal {
 html[channelname="#rubyonrails"].normal {
 	background: #202020 url('Limelight/rubyonrails.png') no-repeat fixed bottom right;
 }
-html[channelname="##apple"].normal {
-	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
-}
-html[channelname="#MacOSX"].normal {
-	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
-}
+html[channelname="##apple"].normal,
+html[channelname="#MacOSX"].normal,
 html[channelname="##mac"].normal {
 	background: #202020 url('Limelight/apple.png') no-repeat fixed bottom right;
 }
